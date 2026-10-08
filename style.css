@@ -25,3 +25,10 @@ video {
     width: 45%;
     border-radius: 25px;
 }
+
+img {
+    width: 25%;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+}
