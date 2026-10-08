@@ -12,3 +12,9 @@
     color: rgb(209, 45, 162);
 }
 
+body {
+    background-color: rgb(104, 103, 25);
+    color: rgb(69, 71, 41);
+    font-family: Cooper Black, sans-serif;
+    text-align: center;
+}
