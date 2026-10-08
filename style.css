@@ -19,10 +19,12 @@ body {
     text-align: 20px;
 }
 
+
 video {
     display: none;
-    margin:  150px;
-    width: 45%;
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
     border-radius: 25px;
 }
 
