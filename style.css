@@ -21,7 +21,7 @@ body {
 
 video {
     display: none;
-    margin:  auto;
+    margin:  150px;
     width: 45%;
     border-radius: 25px;
 }
