@@ -1,0 +1,13 @@
+.secret-button {
+    position: fixed;
+    right: 20px;
+    bottom: 60px;
+    color: rgb(184, 7, 7);
+    background-color: rgb(223, 84, 84);
+    padding: 20px;
+    border-radius: 10px;
+}
+.secret-button:hover {
+    background-color: rgb(154, 99, 175);
+    color: rgb(209, 45, 162);
+}
