@@ -8,13 +8,13 @@
     border-radius: 10px;
 }
 .secret-button:hover {
-    background-color: rgb(202, 8, 8);
-    color: rgb(209, 45, 162);
+    background-color: rgb(167, 66, 66);
+    color: rgb(209, 45, 105);
 }
 
 body {
     background-color: rgb(164, 164, 152);
-    color: rgb(0, 0, 0);
+    color: rgb(20, 20, 20);
     font-family: Cooper Black, sans-serif;
     text-align: 20px;
 }
